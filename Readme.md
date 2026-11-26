@@ -23,7 +23,7 @@ và boss "Deadline cận kề" ở màn 5. Mỗi màn được chấm điểm GP
 
 ## Cài đặt và chạy trong Unity
 
-1. Tải mã nguồn: `git clone https://github.com/quik11/Game-2D-Unity-khoa-luan.git`
+1. Tải mã nguồn: `git clone https://github.com/quik11/Khoa-luan-tot-nghiep-game-2D-Unity`
    (hoặc Code → Download ZIP rồi giải nén).
 2. Mở **Unity Hub → Projects → Add → Add project from disk**, chọn thư mục **`Source`**
    (thư mục có `Assets`, `Packages`, `ProjectSettings`).
