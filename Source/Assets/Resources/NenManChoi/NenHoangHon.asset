@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c002a11e18d74ab4a8001dbf1aacfb86, type: 3}
+  m_Name: NenHoangHon
+  m_EditorClassIdentifier: Assembly-CSharp::BackgroundTheme
+  scale: 1.8
+  bottomBelowView: 2
+  width: 480
+  cameraColor: {r: 0.988235, g: 0.866667, b: 0.85098, a: 1}
+  layers:
+  - sprite: {fileID: 21300000, guid: 30b95b115f304159a46507be172882da, type: 3}
+    followX: 1
+    followY: 1
+    autoScrollSpeed: 0
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 1
+  - sprite: {fileID: 21300000, guid: 8b64a13cf09245fbae36dd8019d0a9ec, type: 3}
+    followX: 0.95
+    followY: 0.9875
+    autoScrollSpeed: 0
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 2
+  - sprite: {fileID: 21300000, guid: 9d8231e8f771403a987c2ad4fa06a4ef, type: 3}
+    followX: 0.9
+    followY: 0.975
+    autoScrollSpeed: 0
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 2
+  - sprite: {fileID: 21300000, guid: c54430745c9540d8afa75f7e9b385d78, type: 3}
+    followX: 0.93
+    followY: 0.9825
+    autoScrollSpeed: 0.2
+    yOffset: 8
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 3
+  - sprite: {fileID: 21300000, guid: 5dee85f69010454f9c774eca1275c24b, type: 3}
+    followX: 0.8
+    followY: 0.95
+    autoScrollSpeed: 0
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 2
+  - sprite: {fileID: 21300000, guid: 7d5c570473784bd28e7770ea34507304, type: 3}
+    followX: 0.7
+    followY: 0.925
+    autoScrollSpeed: 0
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 2
+  - sprite: {fileID: 21300000, guid: 308ddca28a3b46b99e90a76524cedef8, type: 3}
+    followX: 0.6
+    followY: 0.9
+    autoScrollSpeed: 0
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 2
+  - sprite: {fileID: 21300000, guid: 3c152764bf344838b6d68e6903d945ef, type: 3}
+    followX: 0.45
+    followY: 0.8625
+    autoScrollSpeed: 0
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 2
+  - sprite: {fileID: 21300000, guid: e1fd6ddbff694ecabab2845bd4349bf2, type: 3}
+    followX: 0.35
+    followY: 0.8375
+    autoScrollSpeed: 0
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 2
+  - sprite: {fileID: 21300000, guid: 8ffbad8a859b47719402547795991c89, type: 3}
+    followX: 0.25
+    followY: 0.8125
+    autoScrollSpeed: 0
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 2

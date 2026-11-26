@@ -1,0 +1,25 @@
+NGUON ANH NEN CAC MAN (giu file nay de ghi cong dung giay phep)
+
+Man 1 - Rung (thu muc Rung)
+  "Parallax (Forest, desert, sky, moon)" - Bongseng
+  https://bongseng.itch.io/parallax-forest-desert-sky-moon
+  Giay phep cua tac gia: duoc sua va dung trong du an thuong mai lan phi thuong mai; cam ban lai / phat lai file goc.
+
+Man 2 - Chang vang (thu muc ChangVang)
+  "Mountain Dusk Parallax background" (ban A) - ansimuz (Luis Zuno)
+  https://ansimuz.itch.io/mountain-dusk-parallax-background
+  Giay phep: CC0 1.0 (khong bat buoc ghi cong, van ghi cho lich su).
+
+Man 3 va Man 5 - Hoang hon (thu muc HoangHon)
+  "Parallax Sunset Mountains" - kayillustrations
+  https://kayillustrations.itch.io/parallax-sunset-mountains
+  Tac gia yeu cau ghi cong khi dung trong game.
+
+Man 4 - Nui tuyet (thu muc NuiTuyet)
+  "Glacial Mountains: Parallax Background" - Vicente Nitti (vnitti)
+  https://vnitti.itch.io/glacial-mountains-parallax-background
+  Giay phep: CC BY 4.0 - bat buoc ghi cong, https://creativecommons.org/licenses/by/4.0/
+
+Da chinh sua so voi ban goc: cat bo phan trong suot, lop troi duoc to kin phan duoi,
+vai lop ghep them ban lat ngang de lap lien mach (Rung: nui, cay gan).
+Ghi cong trong game: dong "Nen cac man" o bang ket thuc (lay tu o Ghi Cong cua tung bo nen trong Assets/Resources/NenManChoi).

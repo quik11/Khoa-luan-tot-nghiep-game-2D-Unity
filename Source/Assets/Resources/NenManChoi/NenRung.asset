@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c002a11e18d74ab4a8001dbf1aacfb86, type: 3}
+  m_Name: NenRung
+  m_EditorClassIdentifier: Assembly-CSharp::BackgroundTheme
+  scale: 1
+  bottomBelowView: 2.25
+  width: 480
+  cameraColor: {r: 0.286275, g: 0.560784, b: 0.733333, a: 1}
+  layers:
+  - sprite: {fileID: 21300000, guid: 319f0b02454e42a891355d4179039d9b, type: 3}
+    followX: 0.97
+    followY: 1
+    autoScrollSpeed: 0
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 1
+  - sprite: {fileID: 21300000, guid: 21ccfa844c74439eba6751236a09c1e1, type: 3}
+    followX: 1
+    followY: 1
+    autoScrollSpeed: 0
+    yOffset: 15.70312
+    xOffset: 7.5
+    tiled: 0
+    edgeClamp: 3
+  - sprite: {fileID: 21300000, guid: d1083d91e63a4155b3754ee791701ac3, type: 3}
+    followX: 0.9
+    followY: 0.975
+    autoScrollSpeed: 0
+    yOffset: 5.03125
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 3
+  - sprite: {fileID: 21300000, guid: 5cf621a7af4045db8f6b0a9c0b955d9b, type: 3}
+    followX: 0.75
+    followY: 0.9375
+    autoScrollSpeed: 0
+    yOffset: 1.03125
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 3
+  - sprite: {fileID: 21300000, guid: 72c42f3a9e0b4b44ada9dc6cd707eae8, type: 3}
+    followX: 0.6
+    followY: 0.9
+    autoScrollSpeed: 0
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 2
+  - sprite: {fileID: 21300000, guid: ad01a0d7f9244a129aab990d543a8ccc, type: 3}
+    followX: 0.45
+    followY: 0.8625
+    autoScrollSpeed: 0
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 2
+  - sprite: {fileID: 21300000, guid: c85af74fdf2c404ebf842e203bc50379, type: 3}
+    followX: 0.25
+    followY: 0.8125
+    autoScrollSpeed: 0
+    yOffset: 0
+    xOffset: 14.59375
+    tiled: 1
+    edgeClamp: 2

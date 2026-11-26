@@ -1,0 +1,46 @@
+// CHỮ HƯỚNG DẪN HIỆN TRONG LÚC CHƠI - sửa chữ thoải mái, không cần mở code.
+// Mỗi dòng:  <số màn> | <khi nào hiện> | <nội dung>
+// Mỗi câu chỉ hiện 1 lần mỗi lần vào màn, nhiều câu cùng lúc thì lần lượt hiện.
+// "Khi nào hiện" dùng 1 trong các từ sau:
+//   batdau        ngay khi bắt đầu màn (sau bảng cốt truyện)
+//   giay_10       sau 10 giây kể từ lúc bắt đầu (đổi số tùy ý)
+//   gan_goi       lần đầu tới gần 1 Quỷ gối
+//   gan_quaibay   lần đầu tới gần 1 quái bay
+//   cham_tuong    lần đầu đang ở trên không mà áp vào tường
+//   ha_quai_1     sau khi hạ được 1 quái (đổi số tùy ý: ha_quai_3 = sau khi hạ 3 quái)
+//   mau_thap      lần đầu máu còn một nửa trở xuống
+//   gan_sach      lần đầu tới gần quyển sách
+//   het_to        lần đầu hết sạch tơ
+//   khien_boss    lúc boss bật khiên (màn boss)
+//   goi_lao       lần đầu 1 Quỷ gối gồng lao húc (hiện dấu !)
+//   quaibay_bonhao  lần đầu 1 quái bay gồng bổ nhào (hiện dấu !)
+//   gan_bocthep   lần đầu tới gần Quỷ gối bọc thép (màu xanh thép)
+//   gan_matngu    lần đầu tới gần Quỷ gối mất ngủ (màu hồng tím)
+
+1 | batdau | A / D để đi, Space để nhảy - giữ Space lâu thì nhảy cao hơn
+1 | gan_goi | Bấm U để đánh, bấm liên tục để ra chuỗi 3 đòn
+1 | gan_quaibay | Quái bay ở trên cao: nhảy lên rồi bấm U để đánh trên không
+1 | cham_tuong | Đang ở trên không mà áp vào tường thì bấm Space để bật tường
+1 | ha_quai_1 | Bấm R bắn tơ đạn: trúng một con quái 2 phát là trói được nó
+1 | ha_quai_3 | Bấm Q bắn tơ kéo: trúng tường thì bay tới đó, trúng quái đang bị trói thì giật nó về
+1 | mau_thap | Bấm Shift để lộn né qua đòn đánh; nhặt đùi gà để hồi máu
+1 | gan_sach | Quyển sách cho 4 kiến thức - đầy thanh kiến thức là được chọn nâng cấp
+1 | het_to | Hết tơ rồi! Nhặt bình tơ trên đường để nạp lại
+1 | giay_40 | Quái nháy đỏ là sắp ra đòn - bấm Shift lộn né đúng lúc đó để né hoàn hảo
+2 | batdau | Áp tường bấm Space để bật tường, Q để bay qua những khoảng trống xa
+2 | cham_tuong | Bật liên tiếp giữa hai vách tường để leo lên cao
+2 | goi_lao | Quỷ gối hiện dấu ! là sắp lao húc: lộn né qua nó, hoặc dụ nó húc vào tường để nó choáng
+2 | quaibay_bonhao | Quái bay hiện dấu ! là sắp bổ nhào: tránh sang bên, nó cắm xuống đất thì đánh trả
+2 | ha_quai_2 | Trên không giữ S rồi bấm U để dậm xuống, trúng mọi quái quanh chân
+3 | batdau | Bắn 2 phát tơ đạn (R) để trói Quỷ gối, rồi bấm Q giật nó rơi xuống vực
+3 | gan_matngu | Quỷ gối mất ngủ chạy nhanh và lao húc liên tục - canh lúc nó gồng mà lộn né
+3 | gan_bocthep | Quỷ gối bọc thép đỡ mọi đòn trước mặt: đánh sau lưng, hoặc trói bằng tơ rồi đánh
+3 | ha_quai_4 | Đòn thứ 3 (hất tung) hoặc đòn mạnh (I) trúng quái đang bị trói thì kén tơ nổ, quái đứng gần cũng ăn đòn
+4 | batdau | Đòn mạnh (I) hất văng quái rất xa - dùng nó đẩy quái xuống vực ở mép khu đấu
+4 | gan_bocthep | Đòn mạnh (I) đánh vào mặt trước Quỷ gối bọc thép là đập vỡ giáp
+5 | khien_boss | Boss bật khiên! Phá hết đồng hồ cát: đánh thẳng, hoặc trói bằng 2 phát R rồi Q giật xuống
+6 | batdau | Bài thi tổng hợp: Quỷ gối hiện dấu ! thì nhảy qua đầu hoặc lộn né, để nó húc vào tường mà choáng
+6 | gan_matngu | Trần thấp không nhảy qua đầu được: lộn né (Shift) đúng lúc nó lao tới để xuyên qua người nó
+6 | gan_bocthep | Bọc thép gác bệ bên kia vực: đứng sát mép bắn 2 phát R trói rồi Q giật nó xuống
+6 | ha_quai_9 | Phía trước là hầm đầy Quỷ gối: rơi xuống thì giữ S + bấm U để dậm, trói 1 con rồi đánh đòn 3 cho kén nổ trúng cả bọn
+6 | quaibay_bonhao | Quái bay hiện dấu ! là sắp bổ nhào: tránh sang bên, nó cắm xuống đất thì đánh trả

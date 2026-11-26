@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c002a11e18d74ab4a8001dbf1aacfb86, type: 3}
+  m_Name: NenChangVang
+  m_EditorClassIdentifier: Assembly-CSharp::BackgroundTheme
+  scale: 1.45
+  bottomBelowView: 5.5
+  width: 480
+  cameraColor: {r: 0.243137, g: 0.180392, b: 0.32549, a: 1}
+  layers:
+  - sprite: {fileID: 21300000, guid: c2681159b6fa4273af4de41f72d4acc3, type: 3}
+    followX: 1
+    followY: 1
+    autoScrollSpeed: 0
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 1
+  - sprite: {fileID: 21300000, guid: 4291b276f2bc43e5affe3ed5d4c673db, type: 3}
+    followX: 0.92
+    followY: 0.98
+    autoScrollSpeed: 0.12
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 2
+  - sprite: {fileID: 21300000, guid: 8aeb080585324d1e98fa6cf3a37e6bf0, type: 3}
+    followX: 0.85
+    followY: 0.9625
+    autoScrollSpeed: 0.25
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 2
+  - sprite: {fileID: 21300000, guid: e8dd559556b84de58f02bba8d8a0245d, type: 3}
+    followX: 0.75
+    followY: 0.9375
+    autoScrollSpeed: 0
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 2
+  - sprite: {fileID: 21300000, guid: 5c34d34c91f847d3aa72a0ecb5116c87, type: 3}
+    followX: 0.55
+    followY: 0.8875
+    autoScrollSpeed: 0
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 2
+  - sprite: {fileID: 21300000, guid: 39c84ca2fb7c472096b4aecd31e63e94, type: 3}
+    followX: 0.3
+    followY: 0.825
+    autoScrollSpeed: 0
+    yOffset: 0
+    xOffset: 0
+    tiled: 1
+    edgeClamp: 2

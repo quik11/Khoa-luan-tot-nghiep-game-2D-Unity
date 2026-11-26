@@ -1,0 +1,44 @@
+# Unity - các thư mục Unity tự sinh lại, không đẩy lên GitHub
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# File của Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# File hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Bản build
+*.apk
+*.aab
+*.unitypackage
+crashlytics-build.properties
+
+# File solution Unity 6 tu sinh
+*.slnx
+
+# Công cụ mô phỏng màn chơi (tự biên dịch lại)
+Docs/CongCu/levelsim/flycore.so
+__pycache__/

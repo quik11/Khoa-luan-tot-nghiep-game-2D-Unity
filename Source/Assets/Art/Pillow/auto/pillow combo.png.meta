@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 1b9a85c727d1f3945852c4d631aaad3b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pillow combo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee09adc8c06a2e48b463d236457da64
+      internalID: -675448360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pillow combo_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7161af0d6df426c4daa51826e4ccd60a
+      internalID: 771403946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pillow combo_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b87270d8b718f245bfe505fc1a58af3
+      internalID: 987251804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pillow combo_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2777e40c0bed745b9f0eb4dfceb790
+      internalID: -1938834557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pillow combo_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101102ecdea68ae4cb3d647a1ac8fdbb
+      internalID: 446329101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pillow combo_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33dc23a20940a14b8573f0a220a80cf
+      internalID: 1535138673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pillow combo_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a09e0b5705a6f04e9fb30e0404fd517
+      internalID: -204805920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pillow combo_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c408aa20ee9ef3a49a5f0cabf74e1840
+      internalID: -1177160136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pillow combo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0197af4eb9fd74f996b475218dc1e8
+      internalID: 442647902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pillow combo_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cea86c7aef27694382d4a4802888668
+      internalID: -443774842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pillow combo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0335f9ab61cccf74c81510eea3288828
+      internalID: 732912384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pillow combo_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e33d5072f591124e83f4f2197ead3ee
+      internalID: 523025546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pillow combo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c239a34c0505b449165a0c3ec8b2d1
+      internalID: -844484542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pillow combo_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daec0e5a48a7df34888d2e8abdd5315a
+      internalID: 2124407478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: acc9ab4ec5e4f24409974142cdc5db44
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":14.0},"gridSpriteSize":{"x":130.0,"y":60.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.3333300054073334},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      pillow combo_0: -675448360
+      pillow combo_1: 771403946
+      pillow combo_10: 732912384
+      pillow combo_11: 523025546
+      pillow combo_12: -844484542
+      pillow combo_13: 2124407478
+      pillow combo_2: 987251804
+      pillow combo_3: -1938834557
+      pillow combo_4: 446329101
+      pillow combo_5: 1535138673
+      pillow combo_6: -204805920
+      pillow combo_7: -1177160136
+      pillow combo_8: 442647902
+      pillow combo_9: -443774842
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

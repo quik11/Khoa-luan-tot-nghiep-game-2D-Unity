@@ -1,0 +1,16 @@
+// Màn nào dùng bộ nền nào: "tên scene | tên file bộ nền" (file .asset cùng thư mục, không ghi đuôi).
+// MainMenuScene = menu chính (nền trôi theo chuột).
+// Màn không có dòng nào thì giữ nền cũ trong scene. Dòng "ghicong | ..." hiện ở bảng kết thúc game.
+
+MainMenuScene | NenChangVang
+GameplayScene | NenRung
+Man2 | NenChangVang
+Man3 | NenHoangHon
+Man4 | NenNuiTuyet
+Man5 | NenChangVang
+Man6 | NenChangVang
+
+ghicong | Bongseng (rừng thông)
+ghicong | ansimuz (núi chạng vạng)
+ghicong | kayillustrations (hoàng hôn)
+ghicong | Vicente Nitti - vnitti (núi tuyết, CC BY 4.0)

@@ -1,0 +1,41 @@
+// CỐT TRUYỆN ĐẦU MÀN - sửa chữ thoải mái, không cần mở code.
+// Mỗi màn bắt đầu bằng 1 dòng "=== số màn ===". Dòng chữ đầu tiên sau đó là TIÊU ĐỀ, các dòng sau là NỘI DUNG
+// (dòng trống = xuống đoạn). Dòng bắt đầu bằng // là ghi chú, game bỏ qua.
+// Bảng cốt truyện chỉ hiện lần đầu vào mỗi màn; bấm "Chơi mới" ở bảng chọn màn thì sẽ hiện lại.
+// Tiêu đề cũng được dùng làm tên màn ở màn hình chờ chuyển màn.
+
+=== 1 ===
+MÀN 1 - SÁNG THỨ HAI
+Bạn là tân sinh viên Đại học Kinh tế Quốc dân. Học kỳ mới vừa bắt đầu, và mục tiêu của bạn rất rõ ràng: giữ GPA thật cao để cầm được Tấm bằng Cử nhân xuất sắc.
+
+Nhưng sáng nay, lũ Quỷ gối đã kéo đến, cố níu bạn quay về giường ngủ nướng. Hãy vượt qua chúng để tới lớp đúng giờ!
+
+=== 2 ===
+MÀN 2 - ĐƯỜNG TỚI GIẢNG ĐƯỜNG
+Giảng đường hôm nay xa hơn bạn tưởng: vách tường cao và những khoảng trống lớn chắn ngang lối đi.
+
+Hãy bật tường để leo lên cao và dùng tơ kéo để vượt qua những khoảng trống không thể nhảy tới.
+
+=== 3 ===
+MÀN 3 - TRÓI RỒI GIẬT
+Lũ Quỷ gối đứng chắn ngay mép vực. Đánh trực diện thì tốn sức, mà chúng thì lì lợm như cơn buồn ngủ đầu giờ chiều.
+
+Hãy bắn hai phát tơ đạn để trói chúng lại, rồi dùng tơ kéo giật chúng rơi xuống vực.
+
+=== 4 ===
+MÀN 4 - ĐẤU TRƯỜNG ĐÔNG
+Tuần thi đã tới gần, các thói xấu kéo đến thành từng bầy đông đúc.
+
+Đòn mạnh (phím I) là vũ khí tốt nhất lúc này: hất văng chúng ra khỏi mép các khu đấu!
+
+=== 5 ===
+MÀN 5 - DEADLINE CẬN KỀ
+Chỉ còn một thử thách cuối cùng: "Deadline cận kề", kẻ đã khiến bao thế hệ sinh viên mất ngủ.
+
+Hạ được nó, Tấm bằng Cử nhân xuất sắc sẽ thuộc về bạn!
+
+=== 6 ===
+MÀN 6 - ĐỈNH ĐỒI CHẠNG VẠNG
+Tấm bằng đã nằm trong tay, vậy mà đêm nay bạn lại mơ thấy bảng điểm của mình có một con F đỏ chót. "Ám ảnh điểm F" đang chờ bạn trên đỉnh đồi chạng vạng.
+
+Đường lên đỉnh là một bài thi tổng hợp: bật tường, tơ kéo, trói rồi giật, đòn mạnh, lộn né đúng lúc... Hãy dùng tất cả những gì bạn đã học để vượt qua!

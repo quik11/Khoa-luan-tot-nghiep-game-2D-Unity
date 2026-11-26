@@ -1,0 +1,18 @@
+// MẸO CHƠI HIỆN Ở MÀN HÌNH CHỜ - mỗi dòng 1 mẹo, game chọn ngẫu nhiên 1 dòng. Sửa thoải mái, không cần mở code.
+Giữ Space lâu thì nhảy cao hơn, nhấp nhẹ thì nhảy thấp.
+Trúng 2 phát tơ đạn (R) trong 5 giây là quái bị trói 2 giây.
+Quái đang bị trói mà trúng tơ kéo (Q) thì bị giật về phía bạn - đứng gần mép vực để giật nó rơi xuống.
+Lộn né (Shift) có một khoảnh khắc không mất máu ở đầu cú lộn.
+Tơ không tự hồi: nhặt bình tơ để nạp lại, trạm hồi tơ tự xuất hiện lại sau vài giây.
+Đầy thanh kiến thức thì được chọn 1 trong 3 nâng cấp - quyển sách cho 4 kiến thức.
+Ít ngã, ít mất máu và qua màn nhanh thì GPA càng cao.
+Đòn mạnh (I) hất văng quái rất xa và trói nó 2 giây.
+Áp vào tường lúc đang nhảy rồi bấm Space để bật tường, bật liên tiếp giữa 2 vách để leo cao.
+Chạm cọc điểm lưu để hồi sinh ở đó khi lỡ ngã.
+Quái nháy đỏ là sắp ra đòn: lộn né đúng lúc đó là né hoàn hảo - game chậm lại và nhát đánh kế tiếp x2.
+Dụ Quỷ gối lao húc vào tường thì nó choáng một lúc, không đánh trả được.
+Quái bay bổ nhào mà cắm xuống đất thì kẹt một lúc - lúc đó đánh trả.
+Đòn thứ 3 (hất tung) hoặc đòn mạnh (I) trúng quái đang bị trói thì kén tơ nổ, quái đứng gần cũng ăn đòn - đòn mạnh còn trói lại ngay.
+Giật quái đang bị trói (Q) cho bay trúng quái khác thì cả hai cùng mất máu.
+Đang ở trên không giữ S rồi bấm U để dậm xuống, trúng mọi quái quanh chân.
+Quỷ gối bọc thép (màu xanh thép) đỡ đòn trước mặt: đánh sau lưng, trói bằng tơ, hoặc dùng đòn mạnh (I) đập vỡ giáp.
